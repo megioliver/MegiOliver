@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: A good listener, Smart Worker, Try Hard and Funny.
 
--->
-
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
