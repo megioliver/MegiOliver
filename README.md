@@ -6,17 +6,21 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Data Science, Blue Teaming, Multiple programming languages such as [Python](https://docs.python.org/3/) and [R](https://www.rdocumentation.org/)
 
-- 👯 I’m looking to collaborate on Open Source and Data Technology
+- 😄 I’m looking to collaborate on OpenSource and Data Technology
 
-- 🤔 I’m looking for help with ...
+- 💬 Ask me about what ever you want
 
-- 💬 Ask me about ...
+- 📫 How to reach me: [Twitter](https://www.twitter.com/MegiOliver) and [Linkedin](https://www.linkedin.com/in/megioliver/)
 
-- 📫 How to reach me: [Twitter](https://www.twitter.com/MegiOliver)
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: A good listener, Smart Worker, Try Hard and Funny.
 
 -->
 
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=megioliver&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=megioliver&hide=css,java,html&theme=tokyonight">
+</p>
+</details>
