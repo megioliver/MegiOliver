@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [Twitter](https://www.twitter.com/MegiOliver) and [Linkedin](https://www.linkedin.com/in/megioliver/)
 
-- ⚡ Fun fact: A good listener, Smart Worker, Try Hard and Funny.
+- ⚡ Fun fact: A good listener, Smart Worker, Try Hard and Unpredictable.
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
