@@ -1,3 +1,3 @@
 ### Hi! I'm Megi 👋
 
-Passive hacking, bad coder, passionate data, interest Blue Team, love social culture.
+Passive penetration testing, bad coder, passionate data, interest Blue Team, love social culture.
