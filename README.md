@@ -1,1 +1,1 @@
-Ini akun tumbal sebelum testing ke production, thanks!
+Ini akun tumbal sebelum ke production, thanks!
